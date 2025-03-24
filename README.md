@@ -22,5 +22,3 @@ Bem-vindo ao meu perfil no GitHub!
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white)
 
-### 🐍 Minhas contribuições
-![Snake animation](https://github.com/NicollyZonta/NicollyZonta/blob/output/github-contribution-grid-snake.svg)
